@@ -1,0 +1,1 @@
+python3 learn_kmeans.py /data/misp_related/avhubert_feature  train 1 /data/misp_related/avhubert_feature/km/km_mfcc_100 100

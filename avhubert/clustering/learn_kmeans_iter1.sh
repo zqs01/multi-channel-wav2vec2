@@ -1,0 +1,1 @@
+python3 learn_kmeans.py /data/misp_related/avhubert_feature/pretrain_hubert_iter4  train 1 /data/misp_related/avhubert_feature/pretrain_hubert_iter4/km/km_avhubert_2000 2000 --percent 0.1
